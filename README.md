@@ -28,6 +28,7 @@ __E901,E999,F821,F822,F823__ are the "_showstopper_" [flake8](http://flake8.pycq
 | ipv8-android-app | not working |
 
 # Deep dive on Tribler/tribler
+https://github.com/cclauss/Tribler-tribler-tester
 
 | Repo | 10 Dec 2018 |
 | --- | --- |
