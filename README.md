@@ -34,17 +34,17 @@ Repo-specific tests: https://github.com/cclauss/Tribler-tribler-tester
 
 | Directory | 10 Dec 2018 |
 | --- | --- |
-| . | ✅ ❌ | 
+| . | ❌ ❌ | 
 | .sonar | ✅ ❌ | 
 | tribler/Tribler | ✅ ❌ |
 | tribler/Tribler/Core | ✅ ❌ |
 | tribler/Tribler/Main | ✅ ❌ |
 | tribler/Tribler/Test | ✅ ❌ |
-| tribler/Tribler/community | ✅ ✅ |
-| tribler/TriblerGUI | ✅ ❌ |
+| tribler/Tribler/community | ✅ ❌ |
+| tribler/TriblerGUI | ❌ ❌ |
 | tribler/TriblerGUI/dialogs | ✅ ❌ |
 | tribler/TriblerGUI/widgets | ✅ ❌ |
-| tribler/debian | ✅ ❌ |
-| tribler/twisted/plugins | ❌ ❌ |
-| tribler/win | ✅ ❌ |
+| tribler/debian | ✅ ✅ |
+| tribler/twisted/plugins | ✅ ✅ |
+| tribler/win | ✅ ✅ |
 
