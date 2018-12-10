@@ -11,6 +11,8 @@ __E901,E999,F821,F822,F823__ are the "_showstopper_" [flake8](http://flake8.pycq
 * E901: SyntaxError or IndentationError
 * E999: SyntaxError -- failed to compile a file into an Abstract Syntax Tree
 
+Key: ❌ ✅ --> Tests are failing on Python 2 but passing on Python 3
+
 | Repo | 10 Dec 2018 |
 | --- | --- |
 | PlebNet | ✅ ❌ | 
