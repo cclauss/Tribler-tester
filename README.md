@@ -30,8 +30,8 @@ Key: ❌ ✅ --> Tests are failing on Python 2 but passing on Python 3
 | ipv8-android-app | not working |
 
 # Deep dive on Tribler/tribler
-Repo-specific tests are being run at: https://github.com/cclauss/Tribler-tribler-tester
-
+* Repo-specific tests are being run at: https://github.com/cclauss/Tribler-tribler-tester
+* Current output: https://travis-ci.com/cclauss/Tribler-tribler-tester
 | Directory | 10 Dec 2018 |
 | --- | --- |
 | . | ❌ ❌ | 
